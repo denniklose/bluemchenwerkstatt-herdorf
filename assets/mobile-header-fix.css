@@ -1,0 +1,6 @@
+@media (max-width: 820px) {
+  .site-header .header-actions {
+    grid-column: 3;
+    justify-self: end;
+  }
+}

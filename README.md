@@ -18,3 +18,5 @@ Danach im Browser `http://localhost:4173` öffnen. Die Unterseiten werden über 
 - `/#/kontakt`
 
 Die Dateien unter `assets/` sind der veröffentlichte Browser-Build; die Bilddateien unter `images/` sind die dafür verwendeten öffentlichen Stimmungsbilder. Preise, Bestände und Rechtstexte auf der Website sind entsprechend der sichtbaren Hinweise keine Echtzeit- oder finalen Geschäftsdaten.
+
+Der mobile Header-Fix richtet den Hamburger-Button in der rechten Grid-Spalte aus, ohne Logo oder Markennamen zu verschieben.
